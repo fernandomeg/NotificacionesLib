@@ -1,0 +1,987 @@
+{
+  "project_info": {
+    "project_number": "1014687253310",
+    "firebase_url": "https://developmobilepth.firebaseio.com",
+    "project_id": "developmobilepth",
+    "storage_bucket": "developmobilepth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:fb4404090737b66d",
+        "android_client_info": {
+          "package_name": "com.demo.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:dfadfc000da8a446",
+        "android_client_info": {
+          "package_name": "com.example.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-psg5gs3uklb92gck11f2f2dhfq3b8qcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remoteconfig",
+            "certificate_hash": "3fb9bd77585fb245e8090e1179ac32c935280bf1"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:79340c8ce811527a",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.AR.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-d2ktm397p9mp46u9m3fqld09t00mes7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.AR.debug",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:b6e1dee7e1e27e0f",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.AR.quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-54ob3kire6453ojalidsph78nnf2c69k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.AR.quality",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:05b1ed39501f7c03",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.CL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:ecb494c16a60f63c",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.CL.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-fvdfs49s1fh02202p58mijc41vu5bavt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.CL.debug",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:ba64aa7ef8ed8ac5",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.CL.quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-cja2d508rol7upg976hqh5oqnhtuj2tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.CL.quality",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:4753e0b20173bc79",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.CO.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-0qs729josi54cdhcm189q092o36u4lpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.CO.debug",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:b18e6346ab111d23",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.CO.quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-fufghsus9gfef1e9lo46at7klqcpldbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.CO.quality",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:f695c88bf2a137d4",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.EC.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-unto7cjgdh6rso0fvvg0uusdsjqe270f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.EC.debug",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:17ab4668840acf55",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.EC.quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-ganjqblq5666msi65fpaeo22shubsso0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.EC.quality",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:150030ace610bc85",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.MX.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-a6gfvj7t7g4vg2msecd2cupc9fkrs8c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.MX.debug",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:8b6b560314387883",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.MX.quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-4l1sf5ipvashndkkm6vq0squrv32dq8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.MX.quality",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:39b1593402f92516",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.PE.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-ma5640qrovmng8cc04g035ud2pq5utag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.PE.debug",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:151460c4b50db854",
+        "android_client_info": {
+          "package_name": "com.pagatodo.apidemo.PE.quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-ahgb2qumhdlbrlh9qath7n33ndccl1mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodo.apidemo.PE.quality",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:90543ae6151f1059",
+        "android_client_info": {
+          "package_name": "com.pagatodo.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:9d7f9de56e26023d",
+        "android_client_info": {
+          "package_name": "com.pagatodo.otronombre.PE.quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:5b85b1ac3dd35541",
+        "android_client_info": {
+          "package_name": "com.pagatodo.totemlight.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:5fe1b3ede3b4d77a",
+        "android_client_info": {
+          "package_name": "com.pagatodo.totemlight.prerelease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:74af608f1bcb7ef5",
+        "android_client_info": {
+          "package_name": "com.pagatodo.totemlight.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:20630d6acee63e7a",
+        "android_client_info": {
+          "package_name": "com.pagatodoholdings.launcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:134fd74b53e34b8f",
+        "android_client_info": {
+          "package_name": "com.pagatodoholdings.securitykeygen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014687253310:android:f7540b6fd75f9d80",
+        "android_client_info": {
+          "package_name": "com.pagatodoholdings.tools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014687253310-ro5lvcg44lql0s4qjjj36sjjnh6j4i8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagatodoholdings.tools",
+            "certificate_hash": "3f27197df8b3995ff01de5e1db5051e0c1704aa2"
+          }
+        },
+        {
+          "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOoBRMRB6OsRxLlPGgoBVMxt2ZlD1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014687253310-gugq7peehivk7ivenbmld14s35r0dg89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014687253310-p7pme2g24ha9cql8ir1rf8tpplfa1fo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.udacity.friendlychat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">notifications</string>
+    <string name="firestore_notificacion">"notification/%1$s/%2$s/Inbox"</string>
+    <string name="firestore_mensajes">"notification/%1$s/%2$s/Mensajes"</string>
+    <string name="no_existen_notificaciones">No Existen Notificaciones</string>
+    <string name="Cabecera_notificacion_aviso">"Notificaciones!!"</string>
+    <string name="Cuerpo_notificacion_aviso">"Estimado Usuario, Usted Tiene Notificaciones Sin Leer"</string>
+
+    <string name="button_regresar">Regresar</string>
+    <string name="titulo_mensajes_mi">Centro de Mensajes</string>
+</resources>

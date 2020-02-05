@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal">
+
+        <ProgressBar
+            android:id="@+id/pb_notificaciones"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:paddingStart="7dp"
+            android:paddingEnd="7dp"
+            style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+            android:indeterminate="true"
+            tools:visibility="gone"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_notificaciones"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:scrollbars="vertical"
+            android:scrollbarThumbVertical="@android:color/holo_blue_dark"
+            tools:listitem="@layout/lib_notificacion_item"/>
+
+        <TextView
+            android:id="@+id/tv_aviso_notificaciones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="@string/no_existen_notificaciones"
+            android:textColor="#0073AF"
+            android:textSize="18dp"
+            android:visibility="invisible"/>
+
+    </LinearLayout>
+
+</layout>
